@@ -37,7 +37,7 @@
   - [ ] - [P8686 [蓝桥杯 2019 省 A] 修改数组](https://www.luogu.com.cn/problem/P8686)
   - [ ] - [P8744 [蓝桥杯 2021 省 A] 左孩子右兄弟](https://www.luogu.com.cn/problem/P8744)
   - [ ] - [P8625 [蓝桥杯 2015 省 B] 生命之树](https://www.luogu.com.cn/problem/P8625)
-  - [ ] - [P8716 [蓝桥杯 2020 省 AB2] 回文日期](https://www.luogu.com.cn/problem/P8716)
+  - [x] - [P8716 [蓝桥杯 2020 省 AB2] 回文日期](https://www.luogu.com.cn/problem/P8716)
   - [ ] - [P8637 [蓝桥杯 2016 省 B] 交换瓶子](https://www.luogu.com.cn/problem/P8637)
   - [ ] - [P8783 [蓝桥杯 2022 省 B] 统计子矩阵](https://www.luogu.com.cn/problem/P8783)
   - [ ] - [P8787 [蓝桥杯 2022 省 B] 砍竹子](https://www.luogu.com.cn/problem/P8787)

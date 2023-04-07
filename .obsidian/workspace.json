@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1ee6fb7796b9b995",
+            "id": "b406a0de7c46b0d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/博弈论/巴什博弈.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77c5594df4b958ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note/博弈论/巴什博弈.md",
+                "file": "Note/DP/背包问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 288.5
   },
   "right": {
     "id": "fc0e63c8f243bb68",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/博弈论/巴什博弈.md",
+                "file": "Note/DP/背包问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note/博弈论/巴什博弈.md",
+                "file": "Note/DP/背包问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/博弈论/巴什博弈.md"
+                "file": "Note/DP/背包问题.md"
               }
             }
           }
@@ -160,41 +148,44 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "e2b05994c3f2df4d",
+  "active": "b406a0de7c46b0d7",
   "lastOpenFiles": [
-    "Note/树状数组.md",
-    "Note/位运算.md",
-    "Note/DP/背包问题.md",
-    "Note/图论/最短路.md",
-    "Note/博弈论/巴什博弈.md",
-    "Note/博弈论/NIM游戏.md",
-    "Note/博弈论",
-    "Note/离散化.md",
     "Note/最长上升子序列.md",
     "Note/最长公共子序列.md",
     "Note/线段树.md",
+    "Note/位运算.md",
+    "Note/位数.md",
     "Note/拓扑排序.md",
+    "Note/树状数组.md",
     "Note/前缀和.md",
     "Note/排序.md",
-    "Note/高精度.md",
-    "Note/方阵的个数.md",
     "Note/二分查找.md",
     "Note/差分.md",
+    "Note/数论/拓展的欧几里得算法.md",
+    "Note/数论/逆元.md",
+    "Note/数论/离散化.md",
+    "Note/数论/快速幂.md",
+    "Note/数论/二项式.md",
+    "Note/数论/矩阵乘法.md",
+    "Note/图论/连通性.md",
+    "Note/图论/最短路.md",
+    "Note/图论/二分图.md",
+    "Note/字符串/模式匹配.md",
+    "Note/DataStruct/单调队列.md",
+    "Note/DataStruct/单调栈.md",
     "LQ/List.md",
-    "Note/位数.md",
+    "Note/图论/最小生成树.md",
+    "Note/方阵的个数.md",
+    "Note/字符串",
+    "LQ/LQ.canvas",
+    "Pasted image 20230218181432.png",
+    "Note/组合数学",
+    "Excalidraw",
+    "Note/博弈论",
     "Pasted image 20230326114749.png",
     "Pasted image 20230326114736.png",
     "Pasted image 20230326114717.png",
-    "LQ/LQ.canvas",
     "Note/图论",
-    "Note/数论/拓展的欧几里得算法.md",
-    "Note/数论/欧几里得算法.md",
-    "Note/数论/逆元.md",
-    "Note/DataStruct/单调队列.md",
-    "Note/DataStruct/单调栈.md",
-    "Note/数论",
-    "LQ/Time.md",
-    "LQ/Date.md",
-    "Pasted image 20230218181432.png"
+    "Note/数论"
   ]
 }
